@@ -1,0 +1,12 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\user\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(90,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(101,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(112,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(123,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(268,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(276,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(311,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(312,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(321,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(316): warning C4715: FamUzel::variant1: значение возвращается не при всех путях выполнения
+  ConsoleApplication3.vcxproj -> C:\Users\user\source\repos\ConsoleApplication3\Debug\ConsoleApplication3.exe
